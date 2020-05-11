@@ -1,0 +1,93 @@
+
+.second-box{ 
+    margin: 0 10px 40px 10px;
+    height: 100px;
+    background-color: rgba(245, 241, 241, 0.993);
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    color: black; 
+}
+
+#fname{
+    font-size:16px;
+}
+
+.allofthem{
+
+    display: flex;
+}
+
+#btn1{
+    font-size:14px;
+}
+
+#btn2{
+    font-size:14px;
+}
+
+.third-box{
+   
+    padding: 20px 50px;
+    height: 120px;
+    width: 700px;
+    text-align: center;
+    font-size: 16px;
+    border: white;
+    border-color: white;
+    border-style: solid;
+    background-color: rgb(80, 202, 202);
+}
+
+.third-box a{
+    color: darkblue;
+}
+
+.four-box{
+    
+    padding: 10px 50px;
+    height: 120px;
+    width: 450px;
+    text-align: center;
+    font-size: 16px;
+    border: white;
+    border-color: white;
+    border-style: solid;
+    background-color: rgb(80, 202, 202);
+}
+
+.four-box a{
+    color: darkblue;
+}
+
+.Five-box{
+    
+    padding: 10px 50px 40px 50px;
+    height: 120px;
+    width: 700px;
+    text-align: right;
+    font-size: 16px;
+    border: white;
+    border-color: white;
+    border-style: solid;
+    background-color: rgb(80, 202, 202);
+}
+
+.Five-box a{
+    color: darkblue;
+    font-size: 14px;
+}
+
+.Five-box input{
+    
+    font-size: 14px;
+}
+
+.copyright{
+    font-size: 15px;
+    text-align: center;
+}
+
+.table{
+    text-align: center ;
+}
